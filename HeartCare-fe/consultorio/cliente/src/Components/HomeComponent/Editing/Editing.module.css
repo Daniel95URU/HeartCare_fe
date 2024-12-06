@@ -1,0 +1,20 @@
+/* Editing.module.css */
+.controlPane {
+    width: 100%;
+    overflow: hidden;
+}
+
+.control-section {
+    position: relative;
+    width: 100%;
+    overflow-x: auto;
+}
+
+
+
+/* Editing.module.css */
+.customTaskbar {
+    background-color: rgb(4, 122, 141) !important;
+    border-color: rgb(9, 172, 177) !important;
+    color: white;
+}

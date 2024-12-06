@@ -1,0 +1,7 @@
+{
+  "DB_USER": "postgres",
+  "DB_HOST": "localhost",
+  "DB_PASSWORD": "DanielPC",
+  "DB_DATABASE": "clinicaweb",
+  "DB_PORT": 5432
+}
